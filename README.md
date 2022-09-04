@@ -1,7 +1,7 @@
 # Comment-frontend
 Comment-frontend is a responsive React app interface for built on [Material-UI](https://mui.com/zh/) .
 
-![](https://github.com/xcv46/Comment-frontend/blob/master/src/giff.gif?raw=true)
+![](https://github.com/xcv46/Comment-frontend/blob/master/src/giff.gif)
 
 ## Installation
 
